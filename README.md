@@ -12,4 +12,4 @@ https://quinnpucci.github.io/run-buddy/
 ## Contribution
 Quinn Pucci
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc ,,,
