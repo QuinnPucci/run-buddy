@@ -1,3 +1,5 @@
+
+/* general */
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +14,9 @@ body {
     color: var(--tertiary-color);
     font-family: Arial, Helvetica, sans-serif;
 }
-/* apply styles to header */
+/* general end */
+
+/*  header */
 header {
     padding:20px 35px;
     background-color: var(--tertiary-color);
@@ -61,6 +65,9 @@ header nav ul li a:hover {
     border-radius: 15px;
     text-shadow: none;
 }
+/*  header end */
+
+/*  footer */
 footer { 
     background: var(--primary-color);
     width: 100%;
@@ -84,8 +91,9 @@ footer a {
 section {
     padding: 60px;
 }
+/*  footer end */
 
-/* hero style start */
+/* hero */
 .hero {
     background-image: url(../images/hero-bg.jpeg);
     background-size: cover;
@@ -110,9 +118,9 @@ section {
     color: var(--primary-color);
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-/* hero style end */
+/* hero end */
 
-/* hero form style start */
+/* hero form */
 .hero-form {
     color: var(--secondary-color);
     background-color:rgb(252, 225, 56, 0.8);
@@ -217,7 +225,7 @@ opacity: 0;
   }
 /* hero form end */
 
-/* body element */
+/* body */
 .section-title {
     font-size: 48px;
     color: var(--secondary-color);
@@ -233,8 +241,8 @@ opacity: 0;
 .secondary-border {
     border-color: var(--tertiary-color);
 } 
-/* what we do */
 
+/* what we do */
 .intro p {
     line-height: 1.7;
     color: var(--tertiary-color);
@@ -326,8 +334,8 @@ opacity: 0;
     display: flex;
 }
 /* utility classes end */
-/* meet the trainers cont */
 
+/* meet the trainers cont */
 .trainer-bio h3 {
     font-size: 28px;
 }
@@ -417,6 +425,7 @@ flex-wrap: wrap;
 }
 /* reach out end */
 
+/* media query */
 @media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
@@ -506,3 +515,4 @@ flex-wrap: wrap;
         order: 3;
     }
 }
+/* media query end */
