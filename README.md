@@ -1,15 +1,14 @@
 # Run Buddy
-## Purpose
-a website that offers fitness training services
 
-## Built with
-* HTML
-* CSS
-
-## Website
 https://quinnpucci.github.io/run-buddy/
 
-## Contribution
-Quinn Pucci
+  ## Description
+  A fictional company to showcase my HTML and CSS technical skill. No JavaScript, just a simple polished UI using only HTML and CSS
 
-### ©️2019 Run Buddy, Inc
+  ## Contributors
+  Quinn Pucci
+  
+  ## Contact
+  My Github: [QuinnPucci](https://github.com/QuinnPucci)
+  </br>
+  You can email me to ask any questions, or inquire about collaboration: pucciquinn@gmail.com
